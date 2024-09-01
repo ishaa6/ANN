@@ -1,1 +1,1 @@
-The ANN model is trained to predict whether a student would be able to score GPA above threshold value (2.5)
+The ANN model is designed to predict if a student will achieve a GPA above a specified threshold value of 2.5.
